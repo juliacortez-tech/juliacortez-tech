@@ -51,14 +51,6 @@ Me chamo Júlia Beatriz Cortez, tenho 19 anos e sou natural do Rio de Janeiro. E
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordepress-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
