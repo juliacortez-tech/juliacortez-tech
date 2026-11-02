@@ -5,13 +5,6 @@
 Me chamo Júlia Beatriz Cortez, tenho 19 anos e sou natural do Rio de Janeiro. Estou na fase de conclusão do ensino médio na ETEOT, com o curso técnico em informática. Sou apaixonada por tecnologia desde criança e busco a cada dia me desenvolver mais.
 
 <p align="left">
-    <a href="https://www.instagram.com/@juliacortez.dev">
-        <img 
-            alt="instagram" 
-            title="Instagram" 
-            src="https://custom-icon-badges.demolab.com/instagram/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://github.com/juliacortez-tech?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
