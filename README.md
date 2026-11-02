@@ -65,6 +65,13 @@ Me chamo Júlia Beatriz Cortez, tenho 19 anos e sou natural do Rio de Janeiro. E
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" 
 />
+<img align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+/>          
 <img 
     align="left" 
     alt="Bootstrap"
@@ -99,12 +106,11 @@ Me chamo Júlia Beatriz Cortez, tenho 19 anos e sou natural do Rio de Janeiro. E
 />
  <img   
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Mysql" 
+    title="Mysql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />      
 <img 
     align="left" 
     alt="Python" 
