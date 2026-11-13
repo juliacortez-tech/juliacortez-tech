@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Júlia Beatriz Cortez, tenho 19 anos e sou natural do Rio de Janeiro. Estou na fase de conclusão do ensino médio na ETEOT, com o curso técnico em informática. Sou apaixonada por tecnologia desde criança e todos os dias busco me desenvolver mais na área tech.
+Me chamo Júlia Beatriz Cortez, tenho 19 anos e sou natural do Rio de Janeiro. Estou na fase de conclusão do ensino médio na ETEOT com o curso técnico em Informática para Internet(Análise e desenvolvimento de sistemas). Sou apaixonada por tecnologia desde criança e todos os dias busco me desenvolver mais na área tech.
 
 ---
 
